@@ -218,3 +218,4 @@ dask-worker-space
 
 # Input/Output files
 *.csv
+*.txt
